@@ -1,5 +1,5 @@
 ## Overview
-This project involves analyzing the Telegram chat history between myself and my boyfriend. The goal is to uncover interesting patterns, sentiments, and dynamics in our communication using various data analysis and machine learning techniques. This project is not only a fun exploration of our personal interaction but also an opportunity to apply and showcase data science skills.
+This project delves into the analysis of the Telegram chat history between myself and my boyfriend. It aims to provide insights into our communication patterns using data science techniques. This exploration focuses on various aspects of our conversations, such as message frequency, language usage, emoji patterns, and response times. The project not only offers a glimpse into our personal interaction but also serves as a practical application of data analysis skills.
 
 ## Data Description
 The data used in this project is exported from Telegram in JSON format. It includes details such as message ID, date and time, sender information, and the message text itself. The data is structured as follows:
